@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Unmei?",
+  "base_artist": "原賀胡桃 (CV.進藤あまね)、銘戸芽衣 (CV.三森すずこ)、須藤 育 (CV.高橋李依)、美杉美々美 (CV.Lynn)、華暮愛々 (CV.高尾奏音)",
+  "createdAt": "2025-12-20T08:31:50.629865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eiyu Unmei No Uta (From Best AL Alter Ego)",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/01_Eiyu_Unmei_No_Uta_(From_Best_AL_Alter_Ego)_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eiyuu Unmei no Uta",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/02_Eiyuu_Unmei_no_Uta_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unmei♪wa♪Endless!",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/03_Unmei♪wa♪Endless!_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Unmei wa Endless!",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/04_Unmei_wa_Endless!_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unmei No Hito (Orchestra Version)",
+      "artist": "EXILE",
+      "has_synced": false,
+      "path": "select/05_Unmei_No_Hito_(Orchestra_Version)_EXILE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Unmei♪wa♪Endless!",
+      "artist": "Ho - Kago Tea Time",
+      "has_synced": true,
+      "path": "select/06_Unmei♪wa♪Endless!_Ho_-_Kago_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "UNMEI NO HI - TAMASHII VS TAMASHII",
+      "artist": "影山ヒロノブ",
+      "has_synced": true,
+      "path": "select/07_UNMEI_NO_HI_-_TAMASHII_VS_TAMASHII_影山ヒロノブ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unmei no Hi Tamashii vs Tamashii",
+      "artist": "Hironobu Kageyama",
+      "has_synced": true,
+      "path": "select/08_Unmei_no_Hi_Tamashii_vs_Tamashii_Hironobu_Kageyama.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Unmei♪wa♪Endless!",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/09_Unmei♪wa♪Endless!_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eiyu Unmei No Uta",
+      "artist": "Egoist",
+      "has_synced": true,
+      "path": "select/10_Eiyu_Unmei_No_Uta_Egoist.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Unmei No Farfalla",
+      "artist": "PHANTASM (FES cv. Yui Sakakibara)",
+      "has_synced": true,
+      "path": "select/11_Unmei_No_Farfalla_PHANTASM_(FES_cv._Yui_Sakakibara).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Eiyu Unmei No Uta",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/12_Eiyu_Unmei_No_Uta_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Unmei Hirari (Flower Knight Girl)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/13_Unmei_Hirari_(Flower_Knight_Girl)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Unmei Hirari (From \"Flower Knight Girl\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/14_Unmei_Hirari_(From__Flower_Knight_Girl_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Unmei No Hito - Promise",
+      "artist": "KIRA",
+      "has_synced": true,
+      "path": "select/15_Unmei_No_Hito_-_Promise_KIRA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Unmei",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/16_Unmei_aiko.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Eiyu Unmei no Uta (Instrumental)",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/17_Eiyu_Unmei_no_Uta_(Instrumental)_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "運命 (The Chance of Love) (Japanese Ver.) / Unmei",
+      "artist": "Tohoshinki",
+      "has_synced": true,
+      "path": "select/18_運命_(The_Chance_of_Love)_(Japanese_Ver.)___Unmei_Tohoshinki.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Unmei",
+      "artist": "2PM",
+      "has_synced": false,
+      "path": "select/19_Unmei_2PM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Unmei?",
+      "artist": "原賀胡桃 (CV.進藤あまね)、銘戸芽衣 (CV.三森すずこ)、須藤 育 (CV.高橋李依)、美杉美々美 (CV.Lynn)、華暮愛々 (CV.高尾奏音)",
+      "has_synced": false,
+      "path": "select/pl_01_Unmei_原賀胡桃_(CV.進藤あまね)、銘戸芽衣_(CV.三森すずこ)、須藤_育_(CV.高橋李依)、美杉美々美_(CV.Lynn)、華暮愛々_(CV.高尾奏音).txt"
+    }
+  ]
+}
